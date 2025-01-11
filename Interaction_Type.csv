@@ -1,0 +1,6 @@
+InteractionName,Interaction_ID,Weightage
+Add to Cart,1,0.8
+View,2,0.1
+Brought,3,1
+Read Review,4,0.5
+Read Specification,5,0.3
