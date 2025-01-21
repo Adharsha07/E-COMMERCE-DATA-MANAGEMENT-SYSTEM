@@ -29,6 +29,3 @@ Contribution
 
 Contributions to this project are welcome. To discuss potential improvements or submit a pull request, please refer to the contributing guidelines or contact the project maintainers.
 
-License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
